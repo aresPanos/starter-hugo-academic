@@ -25,15 +25,17 @@ content:
       captcha: false
 
   # Contact details (edit or remove options as required)
-  email: test@example.org
-  phone: 888 888 88 88
+  
+
+Cambridge CB2 1PZ
+
+  email: ap2313@cam.ac.uk
   address:
-    street: 450 Serra Mall
-    city: Stanford
-    region: CA
-    postcode: '94305'
-    country: United States
-    country_code: US
+    street: University of Cambridge, Department of Engineering, Trumpington Street
+    city: Cambridge
+    postcode: CB2 1PZ
+    country: United Kingdom
+    country_code: UK
 
 design:
   columns: '2'
