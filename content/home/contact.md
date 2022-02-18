@@ -25,10 +25,6 @@ content:
       captcha: false
 
   # Contact details (edit or remove options as required)
-  
-
-Cambridge CB2 1PZ
-
   email: ap2313@cam.ac.uk
   address:
     street: University of Cambridge, Department of Engineering, Trumpington Street
