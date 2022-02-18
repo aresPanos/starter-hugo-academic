@@ -14,7 +14,7 @@ organizations:
   url: http://www.eng.cam.ac.uk/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+#bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 # Interests to show in About widget
 interests:
@@ -26,7 +26,7 @@ interests:
 education:
   courses:
   - course: PhD in Machine Learning
-    institution: Stanford University
+    institution: University College London
     year: 2019
   - course: BSc in Computer Science
     institution: Athens University of Economics and Business
@@ -55,7 +55,7 @@ social:
 # and uncomment the lines below.
 - icon: cv
   icon_pack: ai
-  link: uploads/cv.pdf
+  link: "uploads/cv.pdf"
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
@@ -65,7 +65,4 @@ highlight_name: true
 ---
 
 Aristeidis Panos is a Research Associate at the Computational and Biological Learning (CBL) Lab in the Department of Engineering at Cambridge University. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
-
-{{< icon name="download" pack="fas" >}} {{< staticref "static/uploads/cv.pdf" "newtab" >}}CV{{< /staticref >}}.
+#{{< icon name="download" pack="fas" >}} {{< staticref "static/uploads/cv.pdf" "newtab" >}}CV{{< /staticref >}}.
