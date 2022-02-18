@@ -52,7 +52,7 @@ subtitle = ""
 
 ## 👋 Welcome to the Academic Template
 
-<img src="image.png" width="500">
+![Alt text](image_2.jpg?raw=true "Title")
     
         
             
