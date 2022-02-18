@@ -14,14 +14,14 @@ weight: 20
 
 title: Biography
 
-# Choose the user profile to display
-# This should be the username (folder name) of a profile in your `content/authors/` folder.
-# See https://wowchemy.com/docs/get-started/#introduce-yourself
-author: admin
----
-
 background:
   color: 'navy'
   # Text color (true=light or false=dark).
   text_color_light: true
   image: "image.jpg"
+
+# Choose the user profile to display
+# This should be the username (folder name) of a profile in your `content/authors/` folder.
+# See https://wowchemy.com/docs/get-started/#introduce-yourself
+author: admin
+---
