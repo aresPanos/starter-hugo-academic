@@ -52,7 +52,7 @@ subtitle = ""
 
 ## 👋 Welcome to the Academic Template
 
-![Alt text](image_2.jpg?raw=true "Title")
+![Alt text](https://github.com/aresPanos/starter-hugo-academic/tree/master/static/media/image.jpg?raw=true "Title")
     
         
             
