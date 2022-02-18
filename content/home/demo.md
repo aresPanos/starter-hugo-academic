@@ -52,7 +52,7 @@ subtitle = ""
 
 ## 👋 Welcome to the Academic Template
 
-<img src="image.png" width="500">
+<img src="../../static/media/image.png" width="500">
     
         
             
