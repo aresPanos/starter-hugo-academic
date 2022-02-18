@@ -8,7 +8,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 15  # Order that this section will appear.
 
-title = "Academic Template"
+title = ""
 subtitle = ""
 
 [design]
@@ -52,7 +52,10 @@ subtitle = ""
 
 <br />
 <br />
-The Wowchemy **Academic Resumé Template** 
+<br />
+<br />
+<br />
+<br />
 <br />
 <br />
 <br />
