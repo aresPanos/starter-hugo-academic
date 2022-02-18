@@ -51,5 +51,5 @@ subtitle = ""
 +++
 
 ## 👋 Welcome to the Academic Template
-
+<br />
 The Wowchemy **Academic Resumé Template** for Hugo empowers you to create your job-winning online resumé and showcase your academic publications.
