@@ -1,3 +1,4 @@
++++
 widget = "blank"  # See https://wowchemy.com/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
@@ -32,6 +33,7 @@ subtitle = ""
  
  # CSS class.
  css_class = ""
+ +++
 
 ## 👋 Welcome to the Academic Template
 
