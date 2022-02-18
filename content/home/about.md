@@ -19,3 +19,9 @@ title: Biography
 # See https://wowchemy.com/docs/get-started/#introduce-yourself
 author: admin
 ---
+
+background:
+  color: 'navy'
+  # Text color (true=light or false=dark).
+  text_color_light: true
+  image: "image.jpg"
