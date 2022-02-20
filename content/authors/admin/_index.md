@@ -25,10 +25,10 @@ interests:
 # Education to show in About widget
 education:
   courses:
-  - course: PhD in Machine Learning
+  - course: Ph.D. in Machine Learning
     institution: University College London
     year: 2019
-  - course: BSc in Computer Science
+  - course: B.Sc. in Computer Science
     institution: Athens University of Economics and Business
     year: 2014
 
@@ -64,4 +64,4 @@ email: ""
 highlight_name: true
 ---
 
-Aristeidis Panos is a Research Associate at the Computational and Biological Learning (CBL) Lab in the Department of Engineering at Cambridge University. 
+Aristeidis (Ares) Panos is a Research Associate at the Computational and Biological Learning (CBL) Lab in the Department of Engineering at Cambridge University. He received a B.Sc. degree in computer science in 2014 (valedictorian) from Athens University of Economics and Business and then he was awarded a Ph.D. in Machine Learning in 2019 from the Department of Statistical Science at the University College London. In October 2020, he joined the Department of Statistics at the University of Warwick as a Postdoctoral Research Fellow while also being member of the Trustworthy digital identity group in The Alan Turing Institute, the UK’s national institute for data science and artificial intelligence.
