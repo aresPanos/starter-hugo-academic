@@ -36,7 +36,7 @@ experience:
   - title: Data scientist
     company: EasyJet
     company_url: 'https://www.easyjet.com'
-    company_logo: org-x
+    company_logo: easyjet_logo
     location: Luton, UK
     date_start: '2018-09-01'
     date_end: '2019-11-01'
