@@ -14,11 +14,11 @@ authors:
 # - "Equal contribution"
 # - "Equal contribution"
 
-date: "2022-03-01T00:00:00Z"
+date: "2022-02-01T00:00:00Z"
 doi: ""
 
-# Schedule page publish date (NOT publication's date).
-publishDate: "2022-04-01T00:00:00Z"
+# Schedule page publish date (NOT publication's date). It has to be before current date if you want to sse it in your page (A).
+publishDate: "2022-03-01T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -33,7 +33,7 @@ publication_short: In *AAAI-22*
 abstract: We provide guarantees for approximate Gaussian process regression resulting from two common low-rank kernel approximations based on random Fourier features and truncating the kernel's Mercer expansion. In particular, we bound the Kullback-Leibler divergence between an exact Gaussian process and one resulting from one of the afore-described low-rank approximations to its kernel, as well as between their corresponding predictive densities. We provide experiments on both simulated data and standard benchmarks showing the effectiveness of our theoretical bounds.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+# summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags: []
 
@@ -76,13 +76,3 @@ image:
 #   Otherwise, set `slides: ""`.
 # slides: example
 ---
-
-{{% callout note %}}
-Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /callout %}}
-
-{{% callout note %}}
-Create your slides in Markdown - click the *Slides* button to check out the example.
-{{% /callout %}}
-
-Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
