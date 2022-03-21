@@ -1,6 +1,7 @@
 ---
 # An instance of the Experience widget.
 # Documentation: https://wowchemy.com/docs/page-builder/
+# active: False
 widget: experience
 
 # This file represents a page section.
@@ -27,8 +28,8 @@ experience:
     company_url: 'https://www.gsk.com'
     company_logo: org-x
     location: London, UK
-    date_start: '2020/06/01'
-    date_end: '2020/10/01'
+    date_start: '2020-06-01'
+    date_end: '2020-10-01'
     description: Yield optimization of multi-stage chemical processes used for medicine production via Machine Learning techniques.
 
         
@@ -37,8 +38,8 @@ experience:
     company_url: 'https://www.easyjet.com'
     company_logo: org-x
     location: Luton, UK
-    date_start: '2018/09/01'
-    date_end: '2019/11/01'
+    date_start: '2018-09-01'
+    date_end: '2019-11-01'
     description: Implementation of Bayesian pricing model; Causal Inference using Machine Learning algorithms; Multi-Echelon Inventory optimization.
 
 design:
