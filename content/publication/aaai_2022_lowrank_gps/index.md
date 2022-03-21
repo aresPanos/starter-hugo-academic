@@ -31,7 +31,7 @@ publication_types: ["1"]
 publication: In *Wowchemy Conference*
 publication_short: In *AAAI-2022*
 
-abstract: We provide guarantees for approximate Gaussian process regression resulting from two common low-rank kernel approximations: based on random Fourier features, and based on truncating the kernel's Mercer expansion. 
+abstract: We provide guarantees for approximate Gaussian process regression resulting from two common low-rank kernel approximations: based on random Fourier features, and based on 
 
 # Summary. An optional shortened abstract.
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
