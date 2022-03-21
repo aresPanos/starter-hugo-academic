@@ -22,28 +22,24 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: CEO
-    company: GenCoin
-    company_url: ''
-    company_logo: org-gc
-    location: California
-    date_start: '2021-01-01'
-    date_end: ''
-    description: |2-
-        Responsibilities include:
+  - title: Machine Learning Consultant
+    company: GlaxoSmithKline (GSK)
+    company_url: 'https://www.gsk.com'
+    company_logo: gsk_logo
+    location: London, UK
+    date_start: 'June, 2020'
+    date_end: 'October, 2020'
+    description: Yield optimization of multi-stage chemical processes used for medicine production via Machine Learning techniques.
+
         
-        * Analysing
-        * Modelling
-        * Deploying
-        
-  - title: Professor of Semiconductor Physics
-    company: University X
-    company_url: ''
+  - title: Data scientist
+    company: EasyJet
+    company_url: 'https://www.easyjet.com'
     company_logo: org-x
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+    location: Luton, UK
+    date_start: 'September, 2018'
+    date_end: 'November, 2019'
+    description: Implementation of Bayesian pricing model; Causal Inference using Machine Learning algorithms; Multi-Echelon Inventory optimization.
 
 design:
   columns: '2'
