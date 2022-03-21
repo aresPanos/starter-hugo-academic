@@ -26,7 +26,7 @@ experience:
   - title: Machine Learning Consultant
     company: GlaxoSmithKline (GSK)
     company_url: 'https://www.gsk.com'
-    company_logo: org-x
+    company_logo: gsk_logo
     location: London, UK
     date_start: '2020-06-01'
     date_end: '2020-10-01'
