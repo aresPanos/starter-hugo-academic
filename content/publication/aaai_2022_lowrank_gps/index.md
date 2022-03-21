@@ -14,11 +14,11 @@ authors:
 # - "Equal contribution"
 # - "Equal contribution"
 
-date: "2013-07-01T00:00:00Z"
+date: "2022-03-01T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2017-01-01T00:00:00Z"
+publishDate: "2022-04-01T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -28,7 +28,7 @@ publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
 publication: In *Wowchemy Conference*
-publication_short: In *ICW*
+publication_short: In *AAAI-22*
 
 abstract: We provide guarantees for approximate Gaussian process regression resulting from two common low-rank kernel approximations based on random Fourier features and truncating the kernel's Mercer expansion. In particular, we bound the Kullback-Leibler divergence between an exact Gaussian process and one resulting from one of the afore-described low-rank approximations to its kernel, as well as between their corresponding predictive densities. We provide experiments on both simulated data and standard benchmarks showing the effectiveness of our theoretical bounds.
 
