@@ -30,7 +30,7 @@ publication_types: ["1"]
 publication: In *Wowchemy Conference*
 publication_short: In *ICW*
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: We provide guarantees for approximate Gaussian process regression resulting from two common low-rank kernel approximations based on random Fourier features and truncating the kernel's Mercer expansion. In particular, we bound the Kullback-Leibler divergence between an exact Gaussian process and one resulting from one of the afore-described low-rank approximations to its kernel, as well as between their corresponding predictive densities. We provide experiments on both simulated data and standard benchmarks showing the effectiveness of our theoretical bounds.
 
 # Summary. An optional shortened abstract.
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
