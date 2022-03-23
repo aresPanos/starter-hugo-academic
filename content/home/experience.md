@@ -30,14 +30,24 @@ experience:
     location: Cambridge, UK
     date_start: '2022-02-14'
     date_end: ''
-    description: eveloping new fundamental tools for machine intelligence and machine learning.
+    description: Developing new fundamental tools for machine intelligence and machine learning.
+    
+  
+  - title: Postdoctoral Research Fellow
+    company: Department of Statistical Science, University College London
+    company_url: 'https://www.ucl.ac.uk/statistics/'
+    company_logo: ucl_logo
+    location: London, UK
+    date_start: '2021-12-01'
+    date_end: '2022--1-30'
+    description: Forecasting wind farm output using machine learning methods.
     
     
   - title: Postdoctoral Research Fellow
     company: Department of Statistics, University of Warwick
     company_url: 'https://warwick.ac.uk/fac/sci/statistics/'
-    company_logo: cwarwick_logo
-    location: Cambridge, UK
+    company_logo: warwick_logo
+    location: Warwick, UK
     date_start: '2020-11-01'
     date_end: '2021-11-30'
     description: Mechanistic marked spatio-temporal point processes for large-scale data-analytic applications.
@@ -50,7 +60,7 @@ experience:
     location: London, UK
     date_start: '2020-06-01'
     date_end: '2020-10-01'
-    description: Yield optimization of multi-stage chemical processes used for medicine production via Machine Learning techniques.
+    description: Yield optimization of multi-stage chemical processes used for medicine production via machine learning techniques.
 
         
   - title: Data scientist
@@ -60,7 +70,37 @@ experience:
     location: Luton, UK
     date_start: '2018-09-01'
     date_end: '2019-11-01'
-    description: Implementation of Bayesian pricing model; Causal Inference using Machine Learning algorithms; Multi-Echelon Inventory optimization.
+    description: Implementation of a Bayesian pricing model; causal inference using machine learning algorithms; multi-echelon inventory optimization.
+    
+    
+   - title: Internship
+    company: The Alan Turing Institute
+    company_url: 'https://www.ucl.ac.uk/statistics/'
+    company_logo: ati_logo
+    location: London, UK
+    date_start: '2016-06-01'
+    date_end: '2016-08-30'
+    description: Machine Classifiers and Similarity measures.
+    
+    
+  - title: Ph.D. in Machine Learning
+    company: Department of Statistical Science, University College London
+    company_url: 'https://www.ucl.ac.uk/statistics/'
+    company_logo: ucl_logo
+    location: London, UK
+    date_start: '2015-09-24'
+    date_end: '2019-10-30'
+    description: Extreme Multi-label Learning with Gaussian Processes.
+    
+    
+  - title: B.S. in Computer Science
+    company: Department of Informatics, Athens University of Economics and Business
+    company_url: 'https://www.dept.aueb.gr/en/cs'
+    company_logo: aueb_logo
+    location: Athens, Greece
+    date_start: '2009-09-20'
+    date_end: '2014-06-30'
+    description: First Class Honours (2014 Valedictorian).
 
 design:
   columns: '2'
