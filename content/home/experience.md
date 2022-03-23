@@ -73,6 +73,36 @@ experience:
     description: Implementation of a Bayesian pricing model; causal inference using machine learning algorithms; multi-echelon inventory optimization.
     
     
+  - title: Internship
+    company: The Alan Turing Institute
+    company_url: 'https://www.turing.ac.uk'
+    company_logo: ati_logo
+    location: London, UK
+    date_start: '2016-06-01'
+    date_end: '2016-08-30'
+    description: Machine Classifiers and Similarity measures.
+    
+ 
+  - title: Ph.D. in Machine Learning
+    company: Department of Statistical Science, University College London
+    company_url: 'https://www.ucl.ac.uk/statistics/'
+    company_logo: ucl_logo
+    location: London, UK
+    date_start: '2015-09-24'
+    date_end: '2019-10-30'
+    description: Extreme Multi-label Learning with Gaussian Processes.
+    
+    
+  - title: B.S. in Computer Science
+    company: Department of Informatics, Athens University of Economics and Business
+    company_url: 'https://www.dept.aueb.gr/en/cs'
+    company_logo: aueb_logo
+    location: Athens, Greece
+    date_start: '2009-09-20'
+    date_end: '2014-06-30'
+    description: First Class Honours (2014 Valedictorian).
+    
+    
    
     
     
