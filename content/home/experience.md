@@ -39,7 +39,7 @@ experience:
     company_logo: ucl_logo
     location: London, UK
     date_start: '2021-12-01'
-    date_end: '2022--1-30'
+    date_end: '2022-01-30'
     description: Forecasting wind farm output using machine learning methods.
     
     
