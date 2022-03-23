@@ -101,6 +101,7 @@ experience:
     date_start: '2009-09-20'
     date_end: '2014-06-30'
     description: First Class Honours (2014 Valedictorian).
+    
 
 design:
   columns: '2'
