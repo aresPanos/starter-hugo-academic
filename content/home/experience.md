@@ -10,7 +10,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 40
 
-title: Professional Experience
+title: Experience
 subtitle:
 
 # Date format for experience
@@ -23,6 +23,15 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
+- title: Research Associate
+    company: Department of Engineering, University of Cambridge
+    company_url: 'http://www.eng.cam.ac.uk/'
+    company_logo: cambridge_logo
+    location: Cambridge, UK
+    date_start: '2022-02-14'
+    date_end: ''
+    description: Few-shot classification, Continual learning, Out-of-distribution detection.
+    
   - title: Machine Learning Consultant
     company: GlaxoSmithKline (GSK)
     company_url: 'https://www.gsk.com'
