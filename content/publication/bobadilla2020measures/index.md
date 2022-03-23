@@ -29,8 +29,8 @@ publishDate: "2019-12-02T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *Computational brain & behavior Journal, Springer, Volume 3 (4), 369-383*
-publication_short: In *Computational brain & behavior Journal*
+publication: *Computational brain & behavior Journal, Springer, Volume 3 (4), 369-383*
+publication_short: *Computational brain & behavior Journal*
 
 abstract: One fundamental question is what makes two brain states similar. For example, what makes the activity in visual cortex elicited from viewing a robin similar to a sparrow? One common assumption in fMRI analysis is that neural similarity is described by Pearson correlation. However, there are a host of other possibilities, including Minkowski and Mahalanobis measures, with each differing in its mathematical, theoretical, and neural computational assumptions. Moreover, the operable measures may vary across brain regions and tasks. Here, we evaluated which of several competing similarity measures best captured neural similarity. Our technique uses a decoding approach to assess the information present in a brain region, and the similarity measures that best correspond to the classifier’s confusion matrix are preferred. Across two published fMRI datasets, we found the preferred neural similarity measures were common across brain regions but differed across tasks. Moreover, Pearson correlation was consistently surpassed by alternatives.
 
