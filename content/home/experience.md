@@ -93,7 +93,7 @@ experience:
     description: Extreme Multi-label Learning with Gaussian Processes.
     
     
-  - title: B.S. in Computer Science
+  - title: B.Sc. in Computer Science
     company: Department of Informatics, Athens University of Economics and Business
     company_url: 'https://www.dept.aueb.gr/en/cs'
     company_logo: aueb_logo
