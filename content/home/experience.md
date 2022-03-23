@@ -29,8 +29,18 @@ experience:
     company_logo: cambridge_logo
     location: Cambridge, UK
     date_start: '2022-02-14'
-    date_end: '2023-02-14'
-    description: Few-shot classification, Continual learning, Out-of-distribution detection.
+    date_end: ''
+    description: eveloping new fundamental tools for machine intelligence and machine learning.
+    
+    
+  - title: Postdoctoral Research Fellow
+    company: Department of Statistics, University of Warwick
+    company_url: 'https://warwick.ac.uk/fac/sci/statistics/'
+    company_logo: cwarwick_logo
+    location: Cambridge, UK
+    date_start: '2020-11-01'
+    date_end: '2021-11-30'
+    description: Mechanistic marked spatio-temporal point processes for large-scale data-analytic applications.
     
     
   - title: Machine Learning Consultant
