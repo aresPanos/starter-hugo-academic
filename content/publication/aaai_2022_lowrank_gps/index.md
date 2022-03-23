@@ -27,8 +27,8 @@ publishDate: "2022-03-01T00:00:00Z"
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: *36th AAAI Conference on Artificial Intelligence*
-publication_short: *36th AAAI Conference on Artificial Intelligence* (**oral**)
+publication: In *36th AAAI Conference on Artificial Intelligence*
+publication_short: In *36th AAAI Conference on Artificial Intelligence* (**oral**)
 
 abstract: We provide guarantees for approximate Gaussian process regression resulting from two common low-rank kernel approximations based on random Fourier features and truncating the kernel's Mercer expansion. In particular, we bound the Kullback-Leibler divergence between an exact Gaussian process and one resulting from one of the afore-described low-rank approximations to its kernel, as well as between their corresponding predictive densities. We provide experiments on both simulated data and standard benchmarks showing the effectiveness of our theoretical bounds.
 
