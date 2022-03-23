@@ -22,7 +22,17 @@ date_format: Jan 2006
 #   Required fields are `title`, `company`, and `date_start`.
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
-experience:   
+experience:
+  - title: Research Associate
+    company: Department of Engineering, University of Cambridge
+    company_url: 'http://www.eng.cam.ac.uk'
+    company_logo: cambridge_logo
+    location: Cambridge, UK
+    date_start: '2022-02-14'
+    date_end: '2023-02-14'
+    description: Few-shot classification, Continual learning, Out-of-distribution detection.
+    
+    
   - title: Machine Learning Consultant
     company: GlaxoSmithKline (GSK)
     company_url: 'https://www.gsk.com'
