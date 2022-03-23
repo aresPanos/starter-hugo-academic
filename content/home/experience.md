@@ -73,14 +73,7 @@ experience:
     description: Implementation of a Bayesian pricing model; causal inference using machine learning algorithms; multi-echelon inventory optimization.
     
     
-   - title: Internship
-    company: The Alan Turing Institute
-    company_url: 'https://www.turing.ac.uk'
-    company_logo: ati_logo
-    location: London, UK
-    date_start: '2016-06-01'
-    date_end: '2016-08-30'
-    description: Machine Classifiers and Similarity measures.
+   
     
     
 
