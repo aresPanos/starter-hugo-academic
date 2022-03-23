@@ -27,8 +27,8 @@ publishDate: "2021-04-14T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *Machine Learning*
-publication_short: In *Machine Learning*
+publication: In *Machine Learning Journal, Springer, Volume 110, 965–987*
+publication_short: In *Machine Learning Journal*
 
 abstract: We introduce a Gaussian process latent factor model for multi-label classification that can capture correlations among class labels by using a small set of latent Gaussian process functions. To address computational challenges, when the number of training instances is very large, we introduce several techniques based on variational sparse Gaussian process approximations and stochastic optimization. Specifically, we apply doubly stochastic variational inference that sub-samples data instances and classes which allows us to cope with Big Data. Furthermore, we show it is possible and beneficial to optimize over inducing points, using gradient-based methods, even in very high dimensional input spaces involving up to hundreds of thousands of dimensions. We demonstrate the usefulness of our approach on several real-world large-scale multi-label learning problems.
 
