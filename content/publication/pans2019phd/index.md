@@ -12,11 +12,11 @@ authors:
 # - "Equal contribution"
 # - "Equal contribution"
 
-date: "2019-12-14T00:00:00Z"
+date: "2019-08-14T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date). It has to be before current date if you want to sse it in your page (A).
-publishDate: "2019-12-14T00:00:00Z"
+publishDate: "2019-08-14T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
