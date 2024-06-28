@@ -21,6 +21,8 @@ interests:
 - Probabilistic Machine Learning
 - Computational Statistics
 - Bayesian Inference
+- Continual Learning
+- Large Vision-Language Models
 
 # Education to show in About widget
 education:
