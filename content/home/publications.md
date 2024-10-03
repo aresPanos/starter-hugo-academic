@@ -13,7 +13,7 @@ title: Recent Publications
 subtitle: ''
 
 content:
-  # Filter on criteria
+  # Filter on criteria 
   filters:
     folders:
       - publication
