@@ -1,5 +1,5 @@
 ---
-title: "Scalable Marked Point Processes for Exchangeable and Non-Exchangeable Event Sequences"
+title: "Decomposable Transformer Point Processes"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
@@ -16,7 +16,7 @@ date: "2023-04-01T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date). It has to be before current date if you want to sse it in your page (A).
-publishDate: "2023-12-10T00:00:00Z"
+publishDate: "2024-12-10T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
