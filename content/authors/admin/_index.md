@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Aristeidis Panos
+title: Aristeidis (Ares) Panos
 
 # Is this the primary user of the site?
 superuser: true
@@ -19,8 +19,7 @@ organizations:
 # Interests to show in About widget
 interests:
 - Probabilistic Machine Learning
-- Computational Statistics
-- Bayesian Inference
+- AI Safety
 - Continual Learning
 - Large Vision-Language Models
 
