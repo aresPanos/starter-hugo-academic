@@ -30,8 +30,16 @@ experience:
     location: Cambridge, UK
     date_start: '2022-02-14'
     date_end: ''
-    description: Developing new fundamental tools for machine intelligence and machine learning.
-    
+    description: Developing new fundamental tools for machine intelligence and machine learning in the context of Continual Learning.
+
+  - title: MATS Scholar - Cohort 8.0 & 8.1
+    company: ML Alignment & Theory Scholars
+    company_url: 'https://www.matsprogram.org/'
+    company_logo: mats_program_logo
+    location: Berkeley, US & London, UK
+    date_start: '2025-06-16'
+    date_end: '2026-03-30'
+    description: Developing techniques to tackle collusion in AI multi-agent environments for AI coding agents.    
   
   - title: Postdoctoral Research Fellow
     company: Department of Statistical Science, University College London
