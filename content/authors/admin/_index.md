@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Aristeidis (Ares) Panos
+title: Aristeidis Panos
 
 # Is this the primary user of the site?
 superuser: true
