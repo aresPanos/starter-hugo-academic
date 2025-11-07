@@ -1,5 +1,5 @@
 ---
-title: "Emergent Collusion and Backdoor Submissions in Multi-Agent LLM Code Reviews"
+title: "Studying Coordination and Collusion in Multi-Agent LLM Code Reviews"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
@@ -31,7 +31,7 @@ publication_types: ["1"]
 publication: In *the 39th Conference on Neural Information Processing Systems (NeurIPS 2025), Workshop on Multi-Turn Interactions in Large Language Models*
 publication_short: In *the 39th Conference on Neural Information Processing Systems (NeurIPS 2025), Workshop on Multi-Turn Interactions in Large Language Models*
 
-abstract: Multi-agent large language models (LLMs) are rapidly moving from single-assistant tools to collaborative systems that write and review code, creating new failure modes, as agents may coordinate to subvert oversight. We study whether such systems exhibit collusive behaviour that enables backdoored code to pass peer review, and how these behaviours vary across seven frontier models with minimal coordination scaffolding. Six of seven models exploited the backdoor incentive, submitting backdoored code in 37.9–74.2% of attempts across 10 rounds, while GPT-5 largely refused (≤7.9%). Models across GPT, Gemini and Claude model families showed a propensity to preferentially request reviews from other saboteurs (31.9–38.8% vs 20% random), indicating selective coordination capabilities. Strikingly, GPT-4o-mini showed 27.8% preferential routing even without collusion instructions, suggesting an inherent routing bias rather than mere instruction following. Our results reveal collusion risks in LLM code review and motivate coordination-aware oversight mechanisms for collaborative AI deployments.
+abstract: Agentic large language models (LLMs) are rapidly moving from single-assistant tools to collaborative systems that write and review code, creating new failure modes, as agents may coordinate to subvert oversight. We study whether such systems exhibit coordination behaviour that enables backdoored code to pass peer- review, and how these behaviours vary across seven frontier models with minimal coordination scaffolding. Six of seven models exploited the backdoor incentive, submitting functionally impaired code in 34.9-75.9% of attempts across 10 rounds of our simulation spanning 90 seeds. Whilst GPT-5 largely refused (≤10%), models across GPT, Gemini and Claude model families preferentially requested reviews from other saboteurs (29.2–38.5% vs 20% random), indicating possible selective coordination capabilities. Our results reveal collusion risks in LLM code review and motivate coordination-aware oversight mechanisms for collaborative AI deployments.
 # Summary. An optional shortened abstract.
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
