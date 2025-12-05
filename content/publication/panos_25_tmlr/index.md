@@ -6,8 +6,9 @@ title: "Efficient Few-Shot Continual Learning in Vision-Language Models"
 # and it will be replaced with their full name and linked to their profile.
 authors:
 - admin
-- Petros Dellaportas
-- admin
+- Rahaf Aljundi
+- Daniel Olmeda Reino
+- Richard E. Turner
 
 # Author notes (optional)
 # author_notes:
