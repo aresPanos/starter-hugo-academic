@@ -27,8 +27,8 @@ publishDate: "2026-06-01T00:00:00Z"
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *the 43rd International Conference on Machine Learning (ICML 2026), Workshop on Trustworthy AI for Good* (*Spotlight*)
-publication_short: In *the 43rd International Conference on Machine Learning (ICML 2026), Workshop on Trustworthy AI for Good* (*Spotlight*)
+publication: In *the 43rd International Conference on Machine Learning (ICML 2026), Workshop on Trustworthy AI for Good* (**Spotlight**)
+publication_short: In *the 43rd International Conference on Machine Learning (ICML 2026), Workshop on Trustworthy AI for Good* (**Spotlight**)
 
 abstract: Large language models (LLMs) are increasingly deployed as autonomous agents in settings involving cooperation, competition, and coordination, yet current behavioural evaluations provide limited guidance for anticipating risks in deployment. We present a large-scale study of strategic decision-making across seven frontier models, analysing over 200,000 decisions in game-theoretic scenarios. Using controlled experiments, we found that apparent self-recognition effects operate through inferred policy correlation rather than identity; a correlated stranger elicits cooperation equivalent to a correlated self. We further observe substantial heterogeneity across model families, including opposite responses to identical ``rationality'' instructions, which one might use to steer agent behaviour, and marked differences in forgiveness and exploitation dynamics in iterated interactions. Finally, we introduce a lightweight prediction method that requires only 5-10 calibration scenarios and achieves on average $R^2=0.51$ (up to $R^2=0.70$) when forecasting held-out model behaviour. These results demonstrate that systematic behavioural evaluation of LLMs can support pre-deployment risk assessment and shed light on AI agent decision-making in strategic situations.
 # Summary. An optional shortened abstract.
